@@ -1,4 +1,4 @@
-# Physical Computing (ITIS 5358 @ UNCC) Projects
+# Physical Computing Projects
 
 ## Arduino Circuit + Code:
   - Red light green light game
